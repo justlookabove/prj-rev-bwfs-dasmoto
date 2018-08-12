@@ -1,0 +1,36 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+.Title {
+    font-family: Helvetica, sans-serif;
+    font-size: 54px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg")
+}
+
+#Brushes {
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+#Frames {
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+#Paint {
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
